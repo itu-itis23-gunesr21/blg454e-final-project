@@ -6,7 +6,7 @@ The project was developed as a final assignment for the BLG454E - Learning From 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 - `deep_svdd_cifar10.ipynb` → Jupyter notebook with all implementation steps
 - `BLGFinal_project.pdf` → Final report in IEEE format
@@ -15,7 +15,7 @@ The project was developed as a final assignment for the BLG454E - Learning From 
 
 ---
 
-## 🚀 What This Project Does
+##  What This Project Does
 
 - Filters only "airplane" images from CIFAR-10 for training
 - Extracts features via PCA
@@ -26,7 +26,7 @@ The project was developed as a final assignment for the BLG454E - Learning From 
 
 ---
 
-## 📊 Results Summary
+##  Results Summary
 
 | Model               | Accuracy | Precision | Recall | AUC  |
 |--------------------|----------|-----------|--------|------|
@@ -35,15 +35,15 @@ The project was developed as a final assignment for the BLG454E - Learning From 
 
 ---
 
-## 🎥 Presentation Video
+##  Presentation Video
 
 A short video presentation (3 minutes) explaining the project and results is available [here](#).
 
-> 🔁 Replace the link above with your YouTube or Drive link
+>  Replace the link above with your YouTube or Drive link
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 This notebook requires the following packages:
 - `torch`

@@ -59,7 +59,7 @@ pip install torch torchvision scikit-learn matplotlib numpy
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Rabia Güneş**  
 150210341 – Artificial Intelligence and Data Engineering  
